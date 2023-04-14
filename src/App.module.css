@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  gap: 77px;
+  grid-template-columns: minmax(0px, auto);
+  margin: 0 auto;
+  width: 367px;
+}
+
+.linkContainer {
+
+  padding: 0px 16px;
+  display: grid;
+  gap: 32px;
+  grid-template-columns: minmax(0px, auto);
+}

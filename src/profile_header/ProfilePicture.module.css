@@ -1,0 +1,11 @@
+.container {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.avatar {
+  display: block;
+  border-radius: 4px;
+  aspect-ratio: 1 / 1;
+}

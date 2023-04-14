@@ -1,0 +1,39 @@
+.container {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 12px;
+  border-radius: 4px;
+  background-color: #fff;
+
+  padding: 4px;
+  padding-right: 12px;
+}
+
+.lvlContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.flexJustifyBetween {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lvlText {
+  color: #7F8196;
+}
+
+.progressBar {
+  background-color: #D9DCE5;
+  height: 4px;
+  width: 100%;
+  border-radius: 1px;
+}
+
+.progress {
+  height: 4px;
+  width: 20%;
+  background-color: #7D85FF;
+  border-radius: 1px;
+}

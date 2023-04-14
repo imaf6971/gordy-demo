@@ -1,0 +1,18 @@
+.container {
+  display: grid;
+  grid-template-columns: 20px 1fr 20px;
+  padding: 16px 18px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+@media (hover) , (min-width: 0\0) {
+}
+.socialTitle {
+  text-align: center;
+}
